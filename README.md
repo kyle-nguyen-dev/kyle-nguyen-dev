@@ -18,7 +18,7 @@ I'm Kyle Nguyen, a junior at Michigan State University majoring in Computer Scie
 
 My core programming languages include Python, C++, HTML, CSS, Java, and SQL (particularly for database work), and I’m always eager to explore and learn new languages as I grow as a developer.
 
-I'm currently pursuing a concentration in Cybersecurity, with a strong interest in network and low-level/hardware security. I also enjoy working on machine learning and deep learning projects, especially in areas like natural language processing and computer vision.
+I'm currently pursuing a concentration in Cybersecurity, with a strong interest in network and low-level/hardware security. I also enjoy working on machine learning and deep learning projects, especially in areas like natural language processing and computer vision. I’ve developed a strong interest in data science and have been actively pursuing personal projects to deepen my skills and accelerate my learning.
 
 My ultimate goal is to help large organizations strengthen their cybersecurity infrastructure by developing scalable, resilient, and intelligent security solutions. I’m especially passionate about defending against emerging threats and ensuring the safety of complex networks and systems across industries.
 Feel free to connect with me on LinkedIn — the link is available in my GitHub bio!
