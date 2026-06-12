@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Kyle Nguyen, a junior at Michigan State University majoring in Computer Science.
+I'm Kyle Nguyen, a Senior at Michigan State University majoring in Computer Science.
 
 My core programming languages include Python, C++, HTML, CSS, Java, and SQL (particularly for database work), and I’m always eager to explore and learn new languages as I grow as a developer.
 
